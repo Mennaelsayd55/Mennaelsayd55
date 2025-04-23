@@ -5,8 +5,8 @@
 <img align="right" height="200" width="300" src="dev.gif">
 
 ### 🤔 About
--  **Working :** Front-End :computer: 
--  **Learning :** React JS :zap:	
+-  **Working :** UI&UX :computer: 
+-  **Learning :** Figma:zap:	
 -  **Hobbies :** Reading :books: | Music :headphones:
 -  **Ask me about :** Anything!, I'm happy to help :v:
  
